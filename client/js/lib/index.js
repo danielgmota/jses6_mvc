@@ -1,3 +1,5 @@
+//exemplo sem POO
+
 var campos = [
     document.querySelector('#data'),
     document.querySelector('#quantidade'),
